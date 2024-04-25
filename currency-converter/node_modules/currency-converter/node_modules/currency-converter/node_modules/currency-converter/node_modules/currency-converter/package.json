@@ -1,0 +1,27 @@
+{
+  "name": "currency-converter",
+  "version": "0.0.1",
+  "description": "Convert Currency e.g. From USD to GBP ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliAsgharGill/currency-converter-library.git"
+  },
+  "keywords": [
+    "currency-converter",
+    "currency-converter-library"
+  ],
+  "author": "Ali Asghar Gill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AliAsgharGill/currency-converter-library/issues"
+  },
+  "homepage": "https://github.com/AliAsgharGill/currency-converter-library#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
