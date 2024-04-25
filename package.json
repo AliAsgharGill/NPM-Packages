@@ -1,0 +1,25 @@
+{
+  "name": "is-number-palindrome",
+  "version": "0.0.1",
+  "description": "To check is number palindroome or not, if number is palindrome then it will return true else false",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliAsgharGill/is-number-palindrome.git"
+  },
+  "keywords": [
+    "is-palindrome-number",
+    "is",
+    "palindrome"
+  ],
+  "author": "Ali Asghar Gill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AliAsgharGill/is-number-palindrome/issues"
+  },
+  "homepage": "https://github.com/AliAsgharGill/is-number-palindrome#readme"
+}
